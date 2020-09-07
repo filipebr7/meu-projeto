@@ -1,8 +1,8 @@
-Este é um leia-me
+# Este é um leia-me
 
-uso esse repositorio para testes no git
+uso esse repositorio para:
+- [x] _testes_ no git
+- [x] testes no __github__
+- [ ] testes no __github-io__
 
-testes no github
-
-testes no github io
 
