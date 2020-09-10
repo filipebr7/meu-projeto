@@ -1,5 +1,7 @@
 # Este é um leia-me
 
+![pcb](pcb.jpg)
+
 uso esse repositorio para:
 - [x] _testes_ no git
 - [x] testes no __github__
